@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        //하하ㅎ
+        //하하ㅎffff
         springBootVersion = '2.1.9.RELEASE'
     }
     repositories {
